@@ -1,0 +1,16 @@
+{
+  "name": "ryanw3b3r/csv-tool",
+  "authors": [
+    {
+      "name": "Ryan Weber",
+      "email": "ryan@onesmartspace.com"
+    }
+  ],
+  "description": "CSV tool",
+  "autoload": {
+    "psr-4": {
+      "CsvTool\\": "src/"
+    }
+  },
+  "require": {}
+}
