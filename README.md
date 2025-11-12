@@ -1,6 +1,6 @@
 # CSV Tool
 
-Author: Ryan Weber
+Basic vanilla-PHP project with custom and bare-minimum framework. No dependencies, everything written from scratch.
 
 ## Setup
 
@@ -14,3 +14,7 @@ Author: Ryan Weber
 - Proper autoloading via Composer PSR-4
 - Graceful error handling
 - Clean number formatting
+
+## Copyright
+
+Feel free to copy, edit and do whatever you like with it.
